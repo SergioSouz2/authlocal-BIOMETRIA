@@ -1,4 +1,4 @@
-# authlocal-BIOMETRIA
+# Authlocal-BIOMETRIA
 
 ## Iniciando nosso projeto de estudo com expo e typescript 
 
